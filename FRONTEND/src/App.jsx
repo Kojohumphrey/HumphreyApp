@@ -17,7 +17,7 @@ function App() {
       <label htmlFor="username">Username:</label><br />
       <input type="text" id="username" name="username" required /><br /><br />
 
-        <label htmlFor="password">Pass:</label><br />
+        <label htmlFor="pass">Pass:</label><br />
         <input type="password" id="password" ref={passwordRef} required /><br /><br />
 
       <button type="submit">Login</button>
